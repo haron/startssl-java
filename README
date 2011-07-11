@@ -1,0 +1,3 @@
+Adding StartSSL root certificates to java database on windows.
+
+Inspired by http://www.ailis.de/~k/uploads/scripts/import-startssl 
