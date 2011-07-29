@@ -1,3 +1,5 @@
 Adding StartSSL root certificates to java database on windows. Click "Downloads" button if you don't have git installed.
 
+Clone (or download and unpack zip archive), then run "run.bat" file as administrator.
+
 Inspired by http://www.ailis.de/~k/uploads/scripts/import-startssl 
